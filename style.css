@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    /* margin: 0;
+    padding: 0; */
+
+}
+
+
+body{
+    background-color: hsl(257, 40%, 49%);
+    background-image: url('images/bg-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    color: white;
+   
+
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    padding: 1.5rem 3rem;
+}
+
+header{
+    margin: 0 0 3rem 0;
+
+}
+
+header img{
+    width: 15%;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: 2rem 0;
+
+}
+
+/* .image-section{
+    width: 50%;
+} */
+
+figure{
+    margin:0 ;
+}
+
+.showcase{
+    padding: 1rem 0rem 0 4rem ;
+    width: 50%;
+
+}
+
+.showcase h1{
+    font-size: 2.7rem;
+}
+
+.showcase p{
+    font-size: 1.2rem;
+    line-height: 26px;
+}
+
+
+.showcase button{
+    width: 40%;
+    border: none;
+    outline: transparent;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-size: 1.1rem;
+    color: hsl(257, 40%, 49%);
+    box-shadow: 0px 4px 4px hsl(257, 40%, 49%);
+}
+
+.showcase button:hover{
+   background-color:hsl(300, 69%, 71%);
+   color: white;
+   cursor: pointer;
+
+}
+
+
+.attribution {
+    display: none;
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+
