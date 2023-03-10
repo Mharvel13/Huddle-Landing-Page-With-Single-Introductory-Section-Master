@@ -29,13 +29,14 @@ Users should be able to:
 - Desktop screenshot
 ![My Solution to the Challange](./Solution-screenshot/Screenshot(Desktop).png)
 - Mobile Screenshot
-![My Solution to the Challange](./Solution-screenshot/Screenshot(Desktop).png)
+![My Solution to the Challange](./Solution-screenshot/Screenshot(Mobile).png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/Huddle-Landing-Page-With-Single-Introductory-Section-Master)
+- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-xZ4BXkVE93)
+- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/Huddle-Landing-Page-With-Single-Introductory-Section-Master/)
 
 ## My process
 
